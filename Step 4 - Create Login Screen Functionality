@@ -2,10 +2,6 @@
 String password = "";
 boolean passwordClicked = false;
 
-//Variable to for Print users button
-String users="";
-boolean printusers=false;
-
 //Create State to Seperate the two screens
 int state=0;
 
