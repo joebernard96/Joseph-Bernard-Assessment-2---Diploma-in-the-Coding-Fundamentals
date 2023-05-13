@@ -2,8 +2,7 @@
 String password = "";
 boolean passwordClicked = false;
 
-//Create Variables for Username Field
-
+//for Print Username Field
 boolean searchclicked = false;
 String users="";
 
