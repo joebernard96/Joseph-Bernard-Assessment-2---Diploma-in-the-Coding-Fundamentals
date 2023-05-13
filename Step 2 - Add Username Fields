@@ -2,11 +2,6 @@
 String password = "";
 boolean passwordClicked = false;
 
-//Create Variables for Username Field
-
-boolean searchclicked = false;
-String users="";
-
 //Create State to Seperate the two screens
 int state=0;
 
